@@ -1,19 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d4cb2e3-1444-4d76-af06-77da31121173" name="Changes" comment="" />
+    <list default="true" id="2d4cb2e3-1444-4d76-af06-77da31121173" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_training.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="13" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4528394545879677" />
+      <entry key="MS500" value="3.8979241990421496" />
+      <entry key="S2" value="7.338840867190324" />
+      <entry key="S5" value="10.396366472221597" />
+      <entry key="S10" value="13.859680801798119" />
+      <entry key="S30" value="26.76727159680098" />
+      <entry key="S60" value="47.010236858065866" />
+      <entry key="M2" value="74.08184738089554" />
+      <entry key="M5" value="117.22903395755574" />
+      <entry key="M10" value="169.45705648821723" />
+      <entry key="M15" value="209.7980013895005" />
+      <entry key="M30" value="282.2983771844644" />
+      <entry key="H1" value="340.98055476238414" />
+      <entry key="H2" value="379.12415063216775" />
+      <entry key="H4" value="400.98969413569284" />
+      <entry key="D1" value="420.8393260555988" />
+      <entry key="W1" value="424.4015869989754" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.3847067041680286E-131" />
+      <entry key="S5" value="4.534643167303234E-53" />
+      <entry key="S10" value="6.733975918655517E-27" />
+      <entry key="S30" value="1.88838490266698E-9" />
+      <entry key="S60" value="4.34555509249556E-5" />
+      <entry key="M2" value="0.00659234811721044" />
+      <entry key="M5" value="0.13830977491812282" />
+      <entry key="M10" value="0.47629098317192775" />
+      <entry key="M15" value="0.8420176752504714" />
+      <entry key="M30" value="1.7090700572714448" />
+      <entry key="H1" value="2.5716863435749966" />
+      <entry key="H2" value="3.1948965926794277" />
+      <entry key="H4" value="3.571530419397555" />
+      <entry key="D1" value="3.924681343430771" />
+      <entry key="W1" value="3.9891402211648828" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3535412090431926" />
+      <entry key="MS500" value="3.8192234801945557" />
+      <entry key="S2" value="7.169129574147929" />
+      <entry key="S5" value="10.221491896378891" />
+      <entry key="S10" value="13.734682506536464" />
+      <entry key="S30" value="26.710103799107095" />
+      <entry key="S60" value="46.97602506129542" />
+      <entry key="M2" value="74.06543114015231" />
+      <entry key="M5" value="117.32614541248384" />
+      <entry key="M10" value="169.86614352258957" />
+      <entry key="M15" value="210.56701655924687" />
+      <entry key="M30" value="283.9445831869871" />
+      <entry key="H1" value="343.5100337260925" />
+      <entry key="H2" value="382.29444228309524" />
+      <entry key="H4" value="404.54791980245693" />
+      <entry key="D1" value="424.7616384639002" />
+      <entry key="W1" value="428.3903849200002" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3FLbgqHJoxbKeWsEhavraajGquC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,10 +106,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dataset_generator.executor": "Run",
+    "Python.eda.executor": "Run",
+    "Python.model_training.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,11 +139,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781857410680</updated>
-      <workItem from="1781857411698" duration="3000" />
+      <workItem from="1781857411698" duration="2651000" />
+      <workItem from="1782117602139" duration="4755000" />
+      <workItem from="1782193411016" duration="682000" />
+      <workItem from="1782194130388" duration="421000" />
+      <workItem from="1782194613587" duration="11135000" />
+      <workItem from="1782277575758" duration="3469000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IOCL_FLEET_AI$dataset_generator.coverage" NAME="dataset_generator Coverage Results" MODIFIED="1782280549283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IOCL_FLEET_AI$model_training.coverage" NAME="model_training Coverage Results" MODIFIED="1782280557563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IOCL_FLEET_AI$eda.coverage" NAME="eda Coverage Results" MODIFIED="1782204975758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
